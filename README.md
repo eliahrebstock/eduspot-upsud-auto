@@ -9,12 +9,12 @@ Paris-Sud campus.
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 * [requests](http://docs.python-requests.org/en/master/)
 
-_Also, you can use [pipenv](https://docs.pipenv.org/)._
+_Alternatively, you can use [pipenv](https://docs.pipenv.org/)._
 
 ## Usage ##
 
 ```
-    $ upsud.py [-h] [-u USERNAME] [-p PASSWORD]
+    $ ./upsud.py [-h] [-u USERNAME] [-p PASSWORD]
 ```
 
 If no username or password is given to the script, it will be asked
@@ -38,7 +38,7 @@ _Vous pouvez aussi utiliser [pipenv](https://docs.pipenv.org/)._
 ## Utilisation ##
 
 ```
-    $ upsud.py [-h] [-u USERNAME] [-p PASSWORD]
+    $ ./upsud.py [-h] [-u USERNAME] [-p PASSWORD]
 ```
 
 Si le nom d'utilisateur ou le mot de passe n'est pas donné au script,
