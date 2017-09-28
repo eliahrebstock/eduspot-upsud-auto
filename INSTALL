@@ -9,5 +9,9 @@ $ pipenv --three
 ```
 
 ```
+$ pipenv install
+```
+
+```
 $ pipenv run upsud.py ...
 ```
